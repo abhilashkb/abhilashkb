@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @abhilashkb
+- 👋 Hi, I’m @abhilash k b
 - 👀 I’m interested in Linux
-- 🌱 I’m currently learning Devops
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning open source technologies as always
 - 📫 How to reach me abhilashkb@outlook.com
 
 <!---
