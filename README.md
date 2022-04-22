@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhilash k b
-- 👀 I’m interested in Linux
+- 👀 Linux enthusiast
 - 🌱 I’m currently learning open source technologies as always
 - 📫 How to reach me abhilashkb@outlook.com
 
